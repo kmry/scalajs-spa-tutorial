@@ -1,3 +1,9 @@
+# 日本語な方に。
+
+- 作者の許可な下、ここで、チュートリアル文書の日本語訳を作っていきます。
+- 協力者、絶賛募集中です。
+- 協力してもいいよ、という方、 twitterにて、原作者 : @ochronsと私 : @g11newsにメッセージをくださいませびっくり
+
 # Scala.js SPA-tutorial
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ochrons/scalajs-spa-tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
